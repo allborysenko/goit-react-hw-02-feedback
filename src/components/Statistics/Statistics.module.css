@@ -1,0 +1,30 @@
+.list {
+  list-style: none;
+  font-size: 16px;
+  color: #115c39;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.total {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 16px;
+  color: #d32a0c;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.feedback {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 16px;
+  color: #07048d;
+  text-transform: uppercase;
+  font-weight: 700;
+}
